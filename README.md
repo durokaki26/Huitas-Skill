@@ -5,7 +5,7 @@ Calculates the fuel price for individual route
 First calculates the distance between to cities and thanmultiply this by a kilometer allowance of 10 cent/kilometer
 
 ## Examples
-* "From {departure} to {arrival}"
+* "From Paris to Berlin"
 * "Ii am comming from {departure} and i am going to {arrival}"
 * "I am driving to {arrival} and i am comming from {departure}"
 * "I lefed from {departure} and i am haeding to {arrival}"
