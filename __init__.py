@@ -28,11 +28,11 @@ class HuitasCalculater(MycroftSkill):
 	#brechne kosten
 	cost = distance*10"""
 #-----------------------------------------------------------
-        self.speak_dialog('calculater.huitas', data={
-            'arrival': arrival,
-            'departure': departure,
-            'cost': cost
-        })
+	self.speak_dialog('calculater.huitas', data= \
+            'arrival': arrival, \
+            'departure': departure, \
+            'cost': cost \
+	)
 
 
 def create_skill():
